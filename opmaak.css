@@ -1,0 +1,48 @@
+
+body{
+background-color: black;
+}
+p{
+  color: white;
+  text-align: center;
+}
+h1{
+  color: white;
+  text-align: center;
+  font-size: 45px;
+}
+h2{
+  color: white;
+  text-align: center;
+  font-size: 40;
+}
+a{
+  color: aqua;
+  font-size: 25;
+  text-align: center;
+  }
+
+ul{
+  display:flex;
+}
+
+li {
+  margin: 100px;
+}
+a:hover{
+  font-size: 15px;
+}
+button{
+  background-color: black;
+}
+img{
+  margin: 25px
+}
+img#billgates1{
+  width:450px;
+  height:330;
+}
+img#billgates2{
+  width:345;
+  height:330;
+}
