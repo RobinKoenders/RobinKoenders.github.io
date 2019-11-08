@@ -14,11 +14,11 @@ h1{
 h2{
   color: white;
   text-align: center;
-  font-size: 40;
+  font-size: 40px;
 }
 a{
   color: aqua;
-  font-size: 25;
+  font-size: 25px;
   text-align: center;
   }
 
@@ -40,9 +40,9 @@ img{
 }
 img#billgates1{
   width:450px;
-  height:330;
+  height:330px;
 }
 img#billgates2{
-  width:345;
-  height:330;
+  width:345px;
+  height:330px;
 }
